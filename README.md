@@ -79,7 +79,7 @@ direcionado para uma tela de vitória, em que poderá visualizar a opção de jo
 novamente ou sair, sendo essa parte, especificamente, semelhante ao fluxo final dederrota também, em que o usuário pode voltar para o começo do fluxo ou finalizar,
 aparecendo assim os créditos finais.
 
-Projeto desenvolvido em equipe(código e relatório). Vale ressaltar que, apesar das distribuições de funções, todos os integrantes
+**Projeto desenvolvido em equipe(código e relatório)**. Vale ressaltar que, apesar das distribuições de funções, todos os integrantes
 participaram da implementação do código em geral. 
 
 INTEGRANTE  |  FUNÇÃO
